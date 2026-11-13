@@ -10,6 +10,8 @@ A medication companion that keeps track of what you take, what you eat, and what
 
 > PillAI is an adherence prototype. It is not medical advice, a diagnostic device, or an autonomous prescriber.
 
+**Live demo:** https://abdullahmutawa144-png.github.io/PillAI/ (web build in offline mode: the on-device assistant runs without the server or an API key)
+
 ## Why we built it
 
 People juggling several medications a day can get reasonable answers from a regular chatbot. Don't drink tea or milk near iron, the calcium blocks absorption. Space iron a few hours from certain antibiotics.
