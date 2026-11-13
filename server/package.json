@@ -1,0 +1,19 @@
+{
+  "name": "pillai-assistant-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PillAI Responses API gateway",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "smoke": "node ../tool/smoke_server.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
